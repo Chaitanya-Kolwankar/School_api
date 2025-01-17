@@ -1,0 +1,853 @@
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\utkarsha_api.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\utkarsha_api.pdb
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\EntityFramework.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Helpers.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Http.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Mvc.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Optimization.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Providers.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Razor.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\WebGrease.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\EntityFramework.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Helpers.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Http.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Mvc.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.Razor.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\ROHIT\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\ROHIT\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\ROHIT\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\utkarsha_api.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\utkarsha_api.pdb
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\Antlr3.Runtime.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\EntityFramework.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Helpers.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Http.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Mvc.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Optimization.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Providers.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Razor.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\WebGrease.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\EntityFramework.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Helpers.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Http.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Mvc.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.Razor.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+C:\Users\Sandeep Patel\Desktop\utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+C:\Users\SHRUTI\Desktop\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\web\utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\web\utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\web\utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\web\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\web\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\web\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\web\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\utkarsha-template\utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\web\Utkarsha_Web\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+C:\inetpub\wwwroot\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+F:\Utkarsh_08_02_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+G:\Utkarsha\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\Utkarsha_01_03_2021\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\KMPD\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\KMPD\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\KMPD\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest_16_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_23_03_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_05_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\Solutions\Utkarsha Latest_06_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+G:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+H:\Work\KMPD\Utkarsha Latest_07_04_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll.config
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojAssemblyReference.cache
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+H:\KMPD\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\utkarsha_api.pdb
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Optimization.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Providers.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\WebGrease.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\EntityFramework.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Helpers.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Mvc.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.Razor.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.csprojResolveAssemblyReference.cache
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api1\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\utkarsha_api.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\utkarsha_api.pdb
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\Antlr3.Runtime.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\EntityFramework.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Helpers.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Http.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Mvc.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Optimization.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Providers.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Razor.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\WebGrease.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\EntityFramework.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\Newtonsoft.Json.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Helpers.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Http.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Mvc.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.Razor.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\bin\utkarsha_api.dll.config
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.csprojAssemblyReference.cache
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+E:\KMPD\Utkarsha Latest_28_10_2021\Utkarsha Latest\Utkarsha_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\website\school_erp\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\WebGrease.dll
+D:\website\school_erp\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csprojAssemblyReference.cache
+D:\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\school_erp\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\school_erp\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\school_erp\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\school_erp\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\school_erp\School_api\utkarsha_api\bin\WebGrease.dll
+D:\school_erp\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\WebGrease.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csprojAssemblyReference.cache
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\WebGrease.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.AssemblyReference.cache
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\chinmay sir marathi solution\SCHOOL_MARATHI\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\WebGrease.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\VSS\Website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.AssemblyReference.cache
+D:\VSS\Website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\VSS\Website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\VSS\Website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\VSS\Website\school_erp\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
+D:\Project\KMPD School\School_api\utkarsha_api\bin\utkarsha_api.dll.config
+D:\Project\KMPD School\School_api\utkarsha_api\bin\utkarsha_api.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\utkarsha_api.pdb
+D:\Project\KMPD School\School_api\utkarsha_api\bin\Antlr3.Runtime.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\EntityFramework.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\Newtonsoft.Json.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Net.Http.Formatting.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Helpers.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Http.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Http.WebHost.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Mvc.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Optimization.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Providers.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Razor.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\WebGrease.dll
+D:\Project\KMPD School\School_api\utkarsha_api\bin\EntityFramework.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\Newtonsoft.Json.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Net.Http.Formatting.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Helpers.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Http.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Http.WebHost.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Mvc.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.Razor.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.Deployment.xml
+D:\Project\KMPD School\School_api\utkarsha_api\bin\System.Web.WebPages.Razor.xml
+D:\Project\KMPD School\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.AssemblyReference.cache
+D:\Project\KMPD School\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CoreCompileInputs.cache
+D:\Project\KMPD School\School_api\utkarsha_api\obj\Debug\utkarsha_api.csproj.CopyComplete
+D:\Project\KMPD School\School_api\utkarsha_api\obj\Debug\utkarsha_api.dll
+D:\Project\KMPD School\School_api\utkarsha_api\obj\Debug\utkarsha_api.pdb
